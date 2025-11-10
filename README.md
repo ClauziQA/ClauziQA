@@ -1,16 +1,16 @@
 # Claudia Cáceres R
 
 ## 👩🏼‍💻 About Me:
-En este momento me encuentro en una emocionante transición de carrera, estoy pivotando mi experiencia previa en Administración de Empresas hacia el campo de la Ingeniería de Calidad (QA Engineer Jr.)
-🪲 Mi superpoder es encontrar fallos antes que el cliente.
+Mi camino profesional es la fusión estratégica entre el análisis riguroso de procesos (adquirido en Ingeniería Económica) y el pensamiento técnico orientado a la calidad (adquirido en mi especialización como QA Engineer).
+🪲 Mi superpoder es detectar patrones de riesgo y predecir errores antes de que impacten la experiencia del usuario.
 
 ## 🛠️ Mis Habilidades Clave
 
-Estoy enfocada en la automatización y el testing de la capa de servicios:
+Estoy enfocada en el testing de la capa de servicios:
 
 * **API Testing:** Dominio en validación funcional con **Postman**.
-* **UI Testing:** Selenium
-* **Gestión de Defectos:** Jira y Confluence.
+* **Gestión de Defectos:** Jira.
+* **DevTools** Para la inspección y depuración de productos.
 
 ## 💻 Actualmente
 
@@ -18,7 +18,6 @@ Estoy trabajando en el **diseño y ejecución de una suite de API Tests para la 
 
 ## 💡 Lo que estoy aprendiendo
 
-**Automatización:** Pytest 🐍
 
 ## 🧩 Proyectos
 
@@ -29,7 +28,7 @@ A continuación se muestran los entregables desarrollados durante cada sprint de
 Cada enlace te llevará al repositorio o carpeta correspondiente.
 
  
-[🔍 **Sprint 01:** Sprint 01 - Mi primera experiencia QA](https://github.com/blonsh/TripleTen_QaEngineer/tree/16d801e3e4f0fccf350e89d4d80737fbe851ad5b/Sprint01%20_Mi%20primera%20experiencia%20QA)  
+[🔍 **Sprint 01:** Sprint 01 - Mi primera experiencia QA](https://drive.google.com/drive/folders/14KqMfNLjyJzGT-9PVWogCvkwUyDRKrUz?usp=drive_link)  
 _Habilidades: Pruebas de humo, Pruebas de regresión, Informes de errores._
 
 El proyecto me ayudó a consolidar nuevo conocimiento y a adquirir habilidades prácticas para realizar pruebas.

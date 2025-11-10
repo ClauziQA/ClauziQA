@@ -36,7 +36,7 @@ El proyecto me ayudó a consolidar nuevo conocimiento y a adquirir habilidades p
 ___
 
 
-[📝 **Sprint 02:** Lider en documentación de pruebas](https://github.com/blonsh/TripleTen_QaEngineer/tree/16d801e3e4f0fccf350e89d4d80737fbe851ad5b/Sprint02_Lider%20en%20documentaci%C3%B3n%20de%20pruebas)  
+[📝 **Sprint 02:** Lider en documentación de pruebas](https://drive.google.com/drive/folders/1hd6PmfpRUIxxjTGTSYp_6NTlgCPcsdXF?usp=sharing)  
 _Habilidades: Análisis de requisitos, Diseño de pruebas, Documentación de prueba._
 
 En este sprint fortalecí mis habilidades en análisis de requisitos, diseño de pruebas y documentación, aplicando un enfoque metódico para asegurar la calidad del producto.
